@@ -4,9 +4,8 @@ I am a **1st-year PharmD (Doctor of Pharmacy) student** passionate about clinica
 
 ---
 
-### 🎯 Career & Learning Goals
-- 📚 Master clinical pharmacology, toxicology, and anatomy foundations.
-- 🔍 Learn global drug safety regulations (FDA, EMA, CDSCO) and ADR reporting protocols.
+### 🎯 Career & Learning Goal
+- 🔍 Already did diploma in Computer Science.
 - 💻 Master data entry, database management, and basic programming (Excel, SQL) for safety databases.
 - 🏷️ Learn medical coding frameworks like **MedDRA** and **WHO-DD**.
 
@@ -21,6 +20,6 @@ I am a **1st-year PharmD (Doctor of Pharmacy) student** passionate about clinica
 ---
 
 ### 📬 Connect With Me
-
+mobile **+917287029748
 - 📧 **Email:** srimannarayana9652356370@gmail.com
 - 📍 **Location:** Telangana, India
